@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "prettier.tabWidth": 2,
+    "terminal.integrated.fontSize": 16,
+    "editor.tabCompletion": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000
+}
