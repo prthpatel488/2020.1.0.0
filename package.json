@@ -19,6 +19,7 @@
   "homepage": "https://github.com/pr7h/2020.1.0.0#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "nodemon": "^2.0.3"
   }
 }
